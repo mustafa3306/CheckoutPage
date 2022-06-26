@@ -1,3 +1,3 @@
-![Form](checkout_app.gif)
+Checkout Page
 
 
